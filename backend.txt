@@ -1,0 +1,13 @@
+backend/
+    src/
+        config/
+        controllers/
+        services/
+        models/
+        routes/
+        middlewares/
+        utils/
+        app.ts
+    .env
+    package.json
+    tsconfig.json
